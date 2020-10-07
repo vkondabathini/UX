@@ -83,6 +83,7 @@
 					<a href="#" id="UN_button" class="jbr-btn jbr-btn--yellow dyother dyMonitor" style="width: 250px;margin: 10px auto;">Unexpected behavior</a>
 					<a href="#" id="IP_button" class="jbr-btn jbr-btn--yellow dyother dyMonitor" style="width: 250px;margin: 10px auto;">Improvement proposal</a>
 					<a href="#" id="AppI_button" class="jbr-btn jbr-btn--yellow dyother dyMonitor" style="width: 250px;margin: 10px auto;">Mobile Application Issue</a>
+					<a href="#" id="PF_button" class="jbr-btn jbr-btn--yellow dyother dyMonitor" style="width: 250px;margin: 10px auto;">Compliments</a>
 			</div>
 		</div>
 	</div>
@@ -96,7 +97,8 @@
 	<script type="text/javascript" src="https://jabra1.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/y6ixxy/b/10/a44af77267a987a660377e5c46e0fb64/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-US&collectorId=df24315e"></script>
 	<!-- Application Feedback -->
 	<script type="text/javascript" src="https://jabra1.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/zc9wtt/b/11/a44af77267a987a660377e5c46e0fb64/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-US&collectorId=4d449f4a"></script>
-	
+	<!-- Positive Feedback -->
+	<script type="text/javascript" src="https://jabra1.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/zca5q9/b/11/a44af77267a987a660377e5c46e0fb64/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-US&collectorId=a98bf2f2"></script>
 	<!-- We will customize Jira in the following script tag -->
 
 	<script type="text/javascript">
@@ -261,6 +263,37 @@
  
 					}	
  
+				, 'a98bf2f2' : {
+					// === custom trigger function ===
+
+					  triggerFunction : function( showCollectorDialog ) {
+						$('#PF_button').click( function(e) {
+							e.preventDefault();
+							showCollectorDialog();
+						});
+ 					}
+
+
+					
+					// === default field values ===
+					, fieldValues : {
+						// default values
+						  summary : '[Compliments]',
+						  description : 'Describe what & why you like the device',
+						  
+ 
+						// hidden field value
+						 components : '12511', // Components = Titan-ANC
+						 customfield_11500 : '10713', // Function = UX
+						 customfield_11600 : '11433', // Found By = Jabra - User Experience Test
+						 customfield_11919 : '11511', // FeedbackType = Positive Feedback
+						 customfield_11927 : '17602', // Project Picker = Titan
+						
+						}
+ 
+					}
+				
+				
 				});
  
 			});
