@@ -1554,24 +1554,24 @@ a:visited {
 
 @font-face {
 	font-family: DaxRegular;
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/dax/DaxWebPro.eot);
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/dax/DaxWebPro.eot?#ie) format("eot"), url(https://www.jabra.se/components/design/content/fonts/fonts/dax/DaxWebPro.woff) format("woff");
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/dax/DaxWebPro.eot);
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/dax/DaxWebPro.eot?#ie) format("eot"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/dax/DaxWebPro.woff) format("woff");
 	font-weight: 400;
 	font-display: swap
 }
 
 @font-face {
 	font-family: DaxRegular;
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/dax/DaxWebPro-Medi.eot);
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/dax/DaxWebPro-Medi.eot?#ie) format("eot"), url(https://www.jabra.se/components/design/content/fonts/fonts/dax/DaxWebPro-Medi.woff) format("woff");
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/dax/DaxWebPro-Medi.eot);
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/dax/DaxWebPro-Medi.eot?#ie) format("eot"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/dax/DaxWebPro-Medi.woff) format("woff");
 	font-weight: 600;
 	font-display: swap
 }
 
 @font-face {
 	font-family: daxwideregular;
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/dax/daxwide-regular-webfont.eot);
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/dax/daxwide-regular-webfont.eot?#ie) format("embedded-opentype"), url(https://www.jabra.se/components/design/content/fonts/fonts/dax/daxwide-regular-webfont.woff) format("woff"), url(https://www.jabra.se/components/design/content/fonts/fonts/dax/daxwide-regular-webfont.ttf) format("truetype"), url(https://www.jabra.se/components/design/content/fonts/fonts/dax/daxwide-regular-webfont.svg#daxwideregular) format("svg");
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/dax/daxwide-regular-webfont.eot);
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/dax/daxwide-regular-webfont.eot?#ie) format("embedded-opentype"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/dax/daxwide-regular-webfont.woff) format("woff"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/dax/daxwide-regular-webfont.ttf) format("truetype"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/dax/daxwide-regular-webfont.svg#daxwideregular) format("svg");
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap
@@ -1579,8 +1579,8 @@ a:visited {
 
 @font-face {
 	font-family: daxwideregular;
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/dax/DaxWide-Medium.eot);
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/dax/DaxWide-Medium.eot?#ie) format("embedded-opentype"), url(https://www.jabra.se/components/design/content/fonts/fonts/dax/DaxWide-Medium.woff) format("woff"), url(https://www.jabra.se/components/design/content/fonts/fonts/dax/DaxWide-Medium.ttf) format("truetype"), url(https://www.jabra.se/components/design/content/fonts/fonts/dax/DaxWide-Medium.svg#daxwideregular) format("svg");
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/dax/DaxWide-Medium.eot);
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/dax/DaxWide-Medium.eot?#ie) format("embedded-opentype"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/dax/DaxWide-Medium.woff) format("woff"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/dax/DaxWide-Medium.ttf) format("truetype"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/dax/DaxWide-Medium.svg#daxwideregular) format("svg");
 	font-weight: 700;
 	font-style: normal;
 	font-display: swap
@@ -1588,23 +1588,23 @@ a:visited {
 
 @font-face {
 	font-family: daxwidebold;
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/dax/daxwide-bold-webfont.eot);
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/dax/daxwide-bold-webfont.eot?#ie) format("embedded-opentype"), url(https://www.jabra.se/components/design/content/fonts/fonts/dax/daxwide-bold-webfont.woff) format("woff"), url(https://www.jabra.se/components/design/content/fonts/fonts/dax/daxwide-bold-webfont.ttf) format("truetype"), url(https://www.jabra.se/components/design/content/fonts/fonts/dax/daxwide-bold-webfont.svg) format("svg");
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/dax/daxwide-bold-webfont.eot);
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/dax/daxwide-bold-webfont.eot?#ie) format("embedded-opentype"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/dax/daxwide-bold-webfont.woff) format("woff"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/dax/daxwide-bold-webfont.ttf) format("truetype"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/dax/daxwide-bold-webfont.svg) format("svg");
 	font-display: swap
 }
 
 @font-face {
 	font-family: GNElliotCyWeb;
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotCyWeb/GNElliotCyWeb-Light.eot);
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotCyWeb/GNElliotCyWeb-Light.eot?#ie) format("embedded-opentype"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotCyWeb/GNElliotCyWeb-Light.woff2) format("woff2"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotCyWeb/GNElliotCyWeb-Light.woff) format("woff"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotCyWeb/GNElliotCyWeb-Light.ttf) format("truetype"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotCyWeb/GNElliotCyWeb-Light.svg#GNElliotCyWeb-Light) format("svg");
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotCyWeb/GNElliotCyWeb-Light.eot);
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotCyWeb/GNElliotCyWeb-Light.eot?#ie) format("embedded-opentype"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotCyWeb/GNElliotCyWeb-Light.woff2) format("woff2"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotCyWeb/GNElliotCyWeb-Light.woff) format("woff"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotCyWeb/GNElliotCyWeb-Light.ttf) format("truetype"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotCyWeb/GNElliotCyWeb-Light.svg#GNElliotCyWeb-Light) format("svg");
 	font-weight: 300;
 	font-display: swap
 }
 
 @font-face {
 	font-family: GNElliotCyWeb;
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotCyWeb/GNElliotCyWeb-Regular.eot);
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotCyWeb/GNElliotCyWeb-Regular.eot?#ie) format("embedded-opentype"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotCyWeb/GNElliotCyWeb-Regular.woff2) format("woff2"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotCyWeb/GNElliotCyWeb-Regular.woff) format("woff"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotCyWeb/GNElliotCyWeb-Regular.ttf) format("truetype"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotCyWeb/GNElliotCyWeb-Regular.svg#GNElliotCyWeb) format("svg");
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotCyWeb/GNElliotCyWeb-Regular.eot);
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotCyWeb/GNElliotCyWeb-Regular.eot?#ie) format("embedded-opentype"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotCyWeb/GNElliotCyWeb-Regular.woff2) format("woff2"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotCyWeb/GNElliotCyWeb-Regular.woff) format("woff"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotCyWeb/GNElliotCyWeb-Regular.ttf) format("truetype"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotCyWeb/GNElliotCyWeb-Regular.svg#GNElliotCyWeb) format("svg");
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap
@@ -1612,24 +1612,24 @@ a:visited {
 
 @font-face {
 	font-family: GNElliotCyWeb;
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotCyWeb/GNElliotCyWeb-Bold.eot);
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotCyWeb/GNElliotCyWeb-Bold.eot?#ie) format("embedded-opentype"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotCyWeb/GNElliotCyWeb-Bold.woff2) format("woff2"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotCyWeb/GNElliotCyWeb-Bold.woff) format("woff"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotCyWeb/GNElliotCyWeb-Bold.ttf) format("truetype"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotCyWeb/GNElliotCyWeb-Bold.svg#GNElliotCyWeb-Bold) format("svg");
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotCyWeb/GNElliotCyWeb-Bold.eot);
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotCyWeb/GNElliotCyWeb-Bold.eot?#ie) format("embedded-opentype"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotCyWeb/GNElliotCyWeb-Bold.woff2) format("woff2"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotCyWeb/GNElliotCyWeb-Bold.woff) format("woff"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotCyWeb/GNElliotCyWeb-Bold.ttf) format("truetype"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotCyWeb/GNElliotCyWeb-Bold.svg#GNElliotCyWeb-Bold) format("svg");
 	font-weight: 600;
 	font-display: swap
 }
 
 @font-face {
 	font-family: GNElliotWeb;
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotWeb/GNElliotWeb-Light.eot);
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotWeb/GNElliotWeb-Light.eot?#ie) format("embedded-opentype"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotWeb/GNElliotWeb-Light.woff2) format("woff2"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotWeb/GNElliotWeb-Light.woff) format("woff"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotWeb/GNElliotWeb-Light.ttf) format("truetype"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotWeb/GNElliotWeb-Light.svg#GNElliotWeb-Light) format("svg");
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotWeb/GNElliotWeb-Light.eot);
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotWeb/GNElliotWeb-Light.eot?#ie) format("embedded-opentype"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotWeb/GNElliotWeb-Light.woff2) format("woff2"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotWeb/GNElliotWeb-Light.woff) format("woff"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotWeb/GNElliotWeb-Light.ttf) format("truetype"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotWeb/GNElliotWeb-Light.svg#GNElliotWeb-Light) format("svg");
 	font-weight: 300;
 	font-display: swap
 }
 
 @font-face {
 	font-family: GNElliotWeb;
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotWeb/GNElliotWeb-Regular.eot);
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotWeb/GNElliotWeb-Regular.eot?#ie) format("embedded-opentype"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotWeb/GNElliotWeb-Regular.woff2) format("woff2"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotWeb/GNElliotWeb-Regular.woff) format("woff"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotWeb/GNElliotWeb-Regular.ttf) format("truetype"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotWeb/GNElliotWeb-Regular.svg#GNElliotWeb) format("svg");
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotWeb/GNElliotWeb-Regular.eot);
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotWeb/GNElliotWeb-Regular.eot?#ie) format("embedded-opentype"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotWeb/GNElliotWeb-Regular.woff2) format("woff2"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotWeb/GNElliotWeb-Regular.woff) format("woff"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotWeb/GNElliotWeb-Regular.ttf) format("truetype"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotWeb/GNElliotWeb-Regular.svg#GNElliotWeb) format("svg");
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap
@@ -1637,16 +1637,16 @@ a:visited {
 
 @font-face {
 	font-family: GNElliotWeb;
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotWeb/GNElliotWeb-Bold.eot);
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotWeb/GNElliotWeb-Bold.eot?#ie) format("embedded-opentype"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotWeb/GNElliotWeb-Bold.woff2) format("woff2"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotWeb/GNElliotWeb-Bold.woff) format("woff"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotWeb/GNElliotWeb-Bold.ttf) format("truetype"), url(https://www.jabra.se/components/design/content/fonts/fonts/GNElliotWeb/GNElliotWeb-Bold.svg#GNElliotWeb-Bold) format("svg");
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotWeb/GNElliotWeb-Bold.eot);
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotWeb/GNElliotWeb-Bold.eot?#ie) format("embedded-opentype"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotWeb/GNElliotWeb-Bold.woff2) format("woff2"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotWeb/GNElliotWeb-Bold.woff) format("woff"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotWeb/GNElliotWeb-Bold.ttf) format("truetype"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/GNElliotWeb/GNElliotWeb-Bold.svg#GNElliotWeb-Bold) format("svg");
 	font-weight: 600;
 	font-display: swap
 }
 
 @font-face {
 	font-family: jbr-system;
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/jbr-system/jbr-system.eot);
-	src: url(https://www.jabra.se/components/design/content/fonts/fonts/jbr-system/jbr-system.eot?#ie) format("embedded-opentype"), url(https://www.jabra.se/components/design/content/fonts/fonts/jbr-system/jbr-system.woff) format("woff"), url(https://www.jabra.se/components/design/content/fonts/fonts/jbr-system/jbr-system.ttf) format("truetype"), url(https://www.jabra.se/components/design/content/fonts/fonts/jbr-system/jbr-system.svg#jbr-system) format("svg");
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/jbr-system/jbr-system.eot);
+	src: url(https://vkondabathini.github.io/UX/components/design/content/fonts/jbr-system/jbr-system.eot?#ie) format("embedded-opentype"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/jbr-system/jbr-system.woff) format("woff"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/jbr-system/jbr-system.ttf) format("truetype"), url(https://vkondabathini.github.io/UX/components/design/content/fonts/jbr-system/jbr-system.svg#jbr-system) format("svg");
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap
