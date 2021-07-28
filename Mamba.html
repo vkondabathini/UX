@@ -134,11 +134,11 @@
     <div class="replacement-column-spot__row row">
 	<a href="#" id="IP_button" class="jbr-btn jbr-btn--yellow dyother dyMonitor" style="width: 250px;margin: 10px auto;">Improvement proposal</a>
 	</div>
-	<!-- 
+	
 	<div class="replacement-column-spot__row row">	
-	<a href="#" id="PF_button" class="jbr-btn jbr-btn--yellow dyother dyMonitor" style="width: 250px;margin: 10px auto;">Positive Feedback</a>
+	<a href="#" id="PF_button" class="jbr-btn jbr-btn--yellow dyother dyMonitor" style="width: 250px;margin: 10px auto;">No Feedback</a>
 	</div>
-	-->
+	
 </div>
 	
   	<!-- Jira Issue Collector - append this at the bottom of <body> -->
@@ -326,7 +326,11 @@
 					// === default field values ===
 					, fieldValues : {
 						// default values
-						  summary : 'Positive Feedback',
+						  summary : 'No Feedback',
+						  description : 'Thanks for participating in the User Experience Test',
+						
+						// FW Version
+						 customfield_10500 : '', // Found In = FW Version
 
 						// hidden field value
 						 components : '12528', // Components = Mamba
